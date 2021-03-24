@@ -138,11 +138,4 @@ public class NewsDetailActivity extends AppCompatActivity
         }
 
     }
-
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        getMenuInflater().inflate(R.menu.news_menu_news, menu);
-        return true;
-    }
-
 }
